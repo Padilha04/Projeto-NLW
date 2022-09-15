@@ -122,6 +122,27 @@ section ul {
 }
 
 
+.social-list li:nth-child(1) path {
+    fill: #2871FF;
+    ;
+
+}
+.social-list li:nth-child(2) path {
+    fill: #9A35FF;
+    ;
+
+}
+
+.social-list li:nth-child(3) path {
+    fill: #FA41FE;
+    ;
+
+}
+.social-list a {
+    padding: 0px;
+    margin: 0px;
+
+}
 /* animation */
 
 
