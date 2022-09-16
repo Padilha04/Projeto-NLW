@@ -34,11 +34,11 @@ body {
 header {
     margin-top: 32px;
     text-align: center;
-    height: 120px;
+    height: 180px;
 }
 
 header div {
-    width: 120px;
+    width: 180px;
     margin: auto;
     background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
     border-radius: 50%;
